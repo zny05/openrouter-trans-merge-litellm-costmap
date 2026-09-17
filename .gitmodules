@@ -1,0 +1,4 @@
+[submodule "litellm"]
+	path = litellm
+	url = https://github.com/BerriAI/litellm.git
+	branch = main
